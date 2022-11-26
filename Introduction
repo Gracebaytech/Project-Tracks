@@ -1,0 +1,13 @@
+Introduction.
+A zip file containing six files with various datasets that include records and data for every Olympic event during the course of the Games' 120-year history. You may download the zip file from Kaggle.
+A list of the CSV files is provided.
+Athletics Biography: Each Olympic athlete's name, sex, birth date, height, weight, nationality, description, and any relevant special remarks are included in this dataset.
+Athlete Events Results: This dataset includes data based on each event's outcome, including the edition year and season, edition ID, the kind of sport,
+the type of event, and other information.
+Athlete name, results ID, athlete id, medal, and whether the sport is a team sport or not.
+Olympic Games Medal Tally :The medal each individual or team has earned are listed in this dataset. information such as the edition's year and season, 
+edition ID, country, country noc, total number of medals earned, and gold, silver, and bronze awards.
+Results: This dataset includes data on each event's outcomes. comparable to result_id, event title, edition year, edition id, sports, sports URL, result location,
+result participants, result details, result description, start date, end date, and time.
+Country: All nation that has ever participated in the tournament
+Games: Each game in each edition year is described in this dataset. Details such as edition name, edition id, year, city, nation flag URL, country noc, start date, finish date, is held, competition end date, and competition start date.
